@@ -1,0 +1,1 @@
+C:\Users\gianc\Downloads\Rust\SimplificarGramaticas\target\debug\SimplificarGramaticas.exe: C:\Users\gianc\Downloads\Rust\SimplificarGramaticas\src\grammar.rs C:\Users\gianc\Downloads\Rust\SimplificarGramaticas\src\main.rs C:\Users\gianc\Downloads\Rust\SimplificarGramaticas\src\parser.rs C:\Users\gianc\Downloads\Rust\SimplificarGramaticas\src\simplify.rs

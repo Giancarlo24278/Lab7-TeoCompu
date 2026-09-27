@@ -1,4 +1,6 @@
 # Lab7-TeoCompu
+Hecho por Giancarlo Sagastume 
+24278
 
 # Problema 1 (como usarlo)
 Simplificador de gramáticas en Rust
@@ -24,3 +26,16 @@ El algoritmo encuentra primero los no terminales anulables. Luego, para cada pro
 
 #Video 
 LINK
+https://youtu.be/Qr8nOjNcgTc
+
+
+
+# Problema 2 (En cuaderno)
+
+<img width="688" height="996" alt="image" src="https://github.com/user-attachments/assets/422ed9eb-6889-4053-b58e-37498a103a15" />
+
+<img width="745" height="987" alt="image" src="https://github.com/user-attachments/assets/92b851e1-b388-4663-bc6b-2626bf32652b" />
+
+<img width="742" height="991" alt="image" src="https://github.com/user-attachments/assets/5d4d3dc5-4c9f-47a9-aba2-fd73107f540a" />
+
+<img width="748" height="916" alt="image" src="https://github.com/user-attachments/assets/4b39786e-c7c0-433e-9826-be93dd186398" />
